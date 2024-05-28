@@ -1,0 +1,4 @@
+Unfortunately I don't know most of the songs on the list, because I have a very strange taste in music, but from the songs I know and the average energy I could say that they are more upbeat songs
+
+Considering that the listener may like very upbeat music and also sadder and slower music, it would not be possible to use the energy or danceability average since the result would literally be the average between energetic and slow music, which would probably give something more generic(neither too energetic nor too slow), which would not necessarily be to the listener's taste.
+So perhaps a good way to calculate the aura would be to divide the aura itself into two parts (or more), the energetic part and the sad/slow part, thus perhaps having greater precision when defining the aura of a listener.
